@@ -5,6 +5,8 @@
   body {
     font-family: helvetica, sans-serif;
     background-image:url("pexels-photo-131637.jpeg");
+    background:cover;
+    background-align:center;
     
     max-width: 600px;
     margin: 0 auto;
@@ -20,16 +22,17 @@
     h1 {
       font-family: 'Londrina Shadow', cursive;
       text-align:center;
-      font-size:75px;
+      font-size:150px;
       margin:40px 0 0 0;
+      color:#330011;
     }
     
-    h3 {
+    h2 {
       text-align:center;
       margin:0 0 50px 0;
     }
     p {
-      color:
+      color:#990033;
       background: black;
       background: linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
       background: -webkit-linear-gradient(botton,rgba(0,0,01),rgba(0,0,0,.4);
@@ -62,7 +65,7 @@
 </head>
 
 <h1>Himanjali's Decor<h1>
-<h3>Decorating from Scrap</h3>
+<h2>Decorating from Scrap</h2>
 
 <body>
 <div class="first">
