@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <head>
 <link href='https://fonts.googleapis.com/css?family=Londrina+Shadow' rel='stylesheet' type='text/css'>
   <style>
@@ -23,7 +23,7 @@
     h1 {
       font-family: 'Londrina Shadow', cursive;
       text-align:center;
-      font-size:150px;
+      font-size:200px;
       margin:40px 0 0 0;
      color: #aaaaaa;
     }
@@ -44,6 +44,7 @@
       bottom: 0;
       margin: 0;
       line-height: 28px;
+      height:30px;
      transition: height .5s;
       -webkit-transition: height .5s;
       -moz-transition: height .5s;
