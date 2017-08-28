@@ -32,16 +32,16 @@
       float: right;
     }
     .first {
-      background:url("https://www.pexels.com/photo/white-ceiling-lamp-38624/");
+      background-image:url("https://www.pexels.com/photo/white-ceiling-lamp-38624/");
     }
     .second {
-      background:url("https://www.pexels.com/photo/abstract-close-up-dark-decor-276617/");
+      background-image:url("https://www.pexels.com/photo/abstract-close-up-dark-decor-276617/");
     }
     .third {
-      background:url("https://www.pexels.com/photo/art-artistic-beautiful-bloom-311458/");
+      background-image:url("https://www.pexels.com/photo/art-artistic-beautiful-bloom-311458/");
     }
     .fourth {
-      background:url("https://www.pexels.com/photo/flowers-books-desk-house-48012/");
+      background-image:url("https://www.pexels.com/photo/flowers-books-desk-house-48012/");
     }
   </style>
 </head>
