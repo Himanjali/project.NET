@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <head>
+<link href='https://fonts.googleapis.com/css?family=Londrina+Shadow' rel='stylesheet' type='text/css'>
   <style>
   
   body {
@@ -24,7 +25,8 @@
       text-align:center;
       font-size:150px;
       margin:40px 0 0 0;
-      color:#330011;
+     color: #aaaaaa;
+    }
     }
     
     h2 {
@@ -63,11 +65,11 @@
     }
   </style>
 </head>
-
+<body>
 <h1>Himanjali's Decor<h1>
 <h2>Decorating from Scrap</h2>
 
-<body>
+
 <div class="first">
   <p>White Ceiling Lamp <span class ="price">$30</span> <br />
     A classic lamp from made from simple yarn which gives a effect with the   yellow luminescence when glown in the dark
